@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Database cache
+github_pr_cache.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
